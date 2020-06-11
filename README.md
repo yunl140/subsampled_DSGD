@@ -1,6 +1,6 @@
 # subsampled_DSGD
 ## Introduction
-This repo implements the subsampled DSGD algortihm and tests the algorithm on two tasks, namely binary classification for the sklearn.make_moon dataset, and regression for the a residential energy consumption dataset (https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction) 
+This repo implements the subsampled DSGD algortihm and tests the algorithm on two tasks, namely binary classification for the sklearn.make_moon dataset, and regression for a residential energy consumption dataset (https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction) 
 
 ## How to run the codes
 The test case for classification can be run from terminal by 
